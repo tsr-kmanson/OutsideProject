@@ -2,5 +2,9 @@
   "$schema": "https://raw.githubusercontent.com/tsr-kmanson/AL-Go/Actions/d4bdd4c4887f8210c35a49d81b526553c3986163/.Modules/settings.schema.json",
   "type": "PTE",
   "templateUrl": "https://github.com/tsr-kmanson/AL-Go-PTE@main",
+  "runs-on": "ubuntu-latest",
+  "githubRunner": "ubuntu-latest",
+  "githubRunnerShell": "pwsh",
+  "doNotPublishApps": true,
   "templateSha": "31cffadcbc7730628b2795e69e9707ffd3043d67"
 }
