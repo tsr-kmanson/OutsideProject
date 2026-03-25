@@ -3,8 +3,5 @@
   "type": "PTE",
   "templateUrl": "https://github.com/tsr-kmanson/AL-Go-PTE@main",
   "useCompilerFolder": true,
-  "runs-on": "ubuntu-latest",
-  "githubRunner": "ubuntu-latest",
-  "githubRunnerShell": "pwsh",
   "templateSha": "31cffadcbc7730628b2795e69e9707ffd3043d67"
 }
