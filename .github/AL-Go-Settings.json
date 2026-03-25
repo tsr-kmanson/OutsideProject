@@ -1,5 +1,6 @@
 {
-  "$schema": "https://raw.githubusercontent.com/tsr-kmanson/AL-Go/Actions/dc3e26be0e944a133933216cae88cf8f86263a28/.Modules/settings.schema.json",
+  "$schema": "https://raw.githubusercontent.com/tsr-kmanson/AL-Go/Actions/58da0c3bdceaae74ea0a6ea49f3a0bddfad24586/.Modules/settings.schema.json",
   "type": "PTE",
-  "templateUrl": "https://github.com/tsr-kmanson/AL-Go-PTE@main"
+  "templateUrl": "https://github.com/tsr-kmanson/AL-Go-PTE@main",
+  "templateSha": "305d770e0bbb53585b33b1c58e274a75898eadf4"
 }
